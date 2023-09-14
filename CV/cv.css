@@ -1,0 +1,23 @@
+.pembatas{
+    background: rgb(0, 41, 124);
+    font-family: sans-serif;
+    font-size: large;
+    height: 30px;
+    padding-top: 8px;
+    padding-left: 8px;
+}
+.border{
+    width: 40%;
+    margin: auto;
+    padding: 10px;
+    background-color: aliceblue;
+}
+.nama{
+    color: rgb(0, 41, 124);
+    font: sans-serif;
+}
+.nama img{
+    height:120px; 
+    width:90px; 
+    position: relative;
+}
